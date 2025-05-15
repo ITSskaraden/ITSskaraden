@@ -1,4 +1,10 @@
-## Hi there 👋
+##
+Hello, my name is Max. I'm passionate about IT, technology, and programming.
+I believe that sooner or later, coding will become a basic skill — just like reading.
+That's why I'm learning Python and building my journey here on GitHub.
+
+🔭 Currently learning: Python, Git, Open Source  
+🌱 Exploring: FastAPI, PostgreSQL, Linux tools
 
 <!--
 **ITSskaraden/ITSskaraden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
